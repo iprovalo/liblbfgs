@@ -66,4 +66,7 @@ sample/sample
 sample/Makefile
 stamp-h1
 
+build-ios
+cmake-build-debug
+
 
